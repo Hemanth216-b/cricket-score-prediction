@@ -1,33 +1,5 @@
-This GUI-based application provides comprehensive analysis tools for one-day cricket match data, offering advanced statistical insights for performance evaluation and team optimization.
+# GUI BASED ANALYSIS OF ONE DAY CRICKET DATA
 
-Key Features:
-  Player & Team Analytics:
-    Individual player ranking system
-    Skill specialization profiling
-    Team composition optimization
-  Advanced Statistical Modeling:
-    Outlier detection using box plot visualization
-    Data normalization through skewness and kurtosis correction
-    Predictive modeling via linear and log-linear regression
-  Multi-variable analysis incorporating:
-    Match scores and run rates
-    Pitch conditions
-    Bowling metrics
-    Venue statistics
-  Data Visualization:
-    Interactive multi-line graphs for performance tracking
-    Comprehensive prediction plots
-    Custom graphical representations
-  Technical Implementation:
-    Automated data cleaning (missing value replacement, noise reduction)
-    Statistical validation of performance metrics
-    GUI interface for intuitive data exploration
+## Abstract
 
-Applications:
-
-  Team selection and strategy development
-  Player performance benchmarking
-  Match outcome prediction
-
-scouting and development"
-  This solution bridges the gap between raw cricket statistics and actionable insights, serving coaches, analysts, and team management with data-driven decision support tools. The system's modular design allows   for expansion to additional cricket formats and international team analyses.
+Sports analysis play a major role in various problems association with sports. Some of these problems are the ranking of individual players and their specialized skills, the composite of teams with an optimal balance of specialized skills, the ranking of team.GUI based application will be developed for the analysis of one cricket data and detect the outliers using the box plot.[Skewness (measure of symmetry) and kurtosis (measures of peakedness) of the curve is corrected by replacement of missing values and removal of noise in data. The player's individual performance and contribution to the team is studied using the multi line graph. The linear regression and log-linear regression equations are constructed for effective prediction based on the various conditions like score, pitch conditions, bowling speed, run rate and venue etc.]The data is useful in selection of team and its member. The data is visualized using various graphs and prediction plots were also drawn for analysis.
