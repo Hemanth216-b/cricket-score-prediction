@@ -1,5 +1,4 @@
 # GUI BASED ANALYSIS OF ONE DAY CRICKET DATA
 
-## Abstract
 
 Sports analysis play a major role in various problems association with sports. Some of these problems are the ranking of individual players and their specialized skills, the composite of teams with an optimal balance of specialized skills, the ranking of team.GUI based application will be developed for the analysis of one cricket data and detect the outliers using the box plot.[Skewness (measure of symmetry) and kurtosis (measures of peakedness) of the curve is corrected by replacement of missing values and removal of noise in data. The player's individual performance and contribution to the team is studied using the multi line graph. The linear regression and log-linear regression equations are constructed for effective prediction based on the various conditions like score, pitch conditions, bowling speed, run rate and venue etc.]The data is useful in selection of team and its member. The data is visualized using various graphs and prediction plots were also drawn for analysis.
